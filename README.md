@@ -95,5 +95,5 @@ Contributions are welcome! Please follow these steps:
 
 
 ## Contact
-For any questions or feedback, please contact [Your Name](mailto:nirnaybis20@gmail.com).
+For any questions or feedback, please contact [Nirnay Biswas](mailto:nirnaybis20@gmail.com).
 
